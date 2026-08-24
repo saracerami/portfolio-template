@@ -1,4 +1,4 @@
-#-------------------------------
+ #-------------------------------
 # General Site Settings
 
 # The site logo that shows up in the top-left corner of the page.
@@ -8,7 +8,7 @@ logo: '/assets/img/musa-logo.png'
 # portfolio home page, above the project list. If you don't want one of the
 # intro_title or intro_text to show up, just set the appropriate value to null.
 intro_title: editing intro title
-intro_text: intro text
+intro_text: editing intro text
   A brief couple of sentences describing your personal mission statement goes
   here. This is a great place to very succinctly tell a visitor what drives you
   and what you're passionate about.
